@@ -1,1 +1,1 @@
-# vitek_sdgmm_preprint
+## Trying spatial-Dirichlet Gaussian mixture model algorithm in Cardinal MSI.
